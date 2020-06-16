@@ -1,0 +1,193 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<classification0 type_id="opencv-matrix">
+  <rows>6</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    80. 82. 68. 81. 74. 89.</data></classification0>
+ <!-- resumed -->
+
+<classification1 type_id="opencv-matrix">
+  <rows>6</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    52. 52. 50. 55. 55. 54.</data></classification1>
+ <!-- resumed -->
+
+<classification2 type_id="opencv-matrix">
+  <rows>6</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    53. 66. 53. 76. 50. 56.</data></classification2>
+ <!-- resumed -->
+
+<classification3 type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    57. 78. 55. 67. 89.</data></classification3>
+ <!-- resumed -->
+
+<classification4 type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    80. 70. 70. 89.</data></classification4>
+ <!-- resumed -->
+
+<classification5 type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    70. 89. 73. 80.</data></classification5>
+ <!-- resumed -->
+
+<classification6 type_id="opencv-matrix">
+  <rows>6</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    56. 68. 68. 57. 52. 68.</data></classification6>
+ <!-- resumed -->
+
+<classification7 type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    54. 56. 55. 48.</data></classification7>
+ <!-- resumed -->
+
+<classification8 type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    72. 82. 71. 86.</data></classification8>
+ <!-- resumed -->
+
+<classification9 type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    81. 67. 56. 51.</data></classification9>
+ <!-- resumed -->
+
+<classification10 type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    86. 74. 89. 90.</data></classification10>
+ <!-- resumed -->
+
+<classification11 type_id="opencv-matrix">
+  <rows>6</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    101. 114. 101. 102. 111. 98.</data></classification11>
+ <!-- resumed -->
+
+<classification12 type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    115. 85. 116. 51. 56.</data></classification12>
+ <!-- resumed -->
+
+<classification13 type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    109. 57. 50.</data></classification13>
+ <!-- resumed -->
+
+<classification14 type_id="opencv-matrix">
+  <rows>8</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    103. 117. 121. 84. 79. 80. 120. 87.</data></classification14>
+ <!-- resumed -->
+
+<classification15 type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    101. 113.</data></classification15>
+ <!-- resumed -->
+
+<classification16 type_id="opencv-matrix">
+  <rows>8</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    109. 117. 110. 97. 99. 114. 65. 102.</data></classification16>
+ <!-- resumed -->
+
+<classification17 type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    67. 67. 69. 69.</data></classification17>
+ <!-- resumed -->
+
+<classification18 type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    72. 54.</data></classification18>
+ <!-- resumed -->
+
+<classification19 type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    110. 103. 112. 121.</data></classification19>
+ <!-- resumed -->
+
+<classification20 type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    84. 80. 71. 83. 88.</data></classification20>
+ <!-- resumed -->
+
+<classification21 type_id="opencv-matrix">
+  <rows>6</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    80. 73. 90. 51. 69. 72.</data></classification21>
+ <!-- resumed -->
+
+<classification22 type_id="opencv-matrix">
+  <rows>2</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    119. 100.</data></classification22>
+ <!-- resumed -->
+
+<classification23 type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>f</dt>
+  <data>
+    113. 110. 104. 104.</data></classification23>
+</opencv_storage>
